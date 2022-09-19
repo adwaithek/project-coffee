@@ -1,0 +1,406 @@
+
+body{
+    background-color:rgba(249, 236, 220, 0.829);
+}
+
+
+    
+ 
+ #header{
+    width:100%;
+    height: 100px;
+    margin-top: -38px;
+    background-color: rgba(249, 236, 220, 0.829);
+   
+ }
+ #headcon{
+    width: 400px;
+    height: 100px;
+    display: flex;
+    margin-left: 450px;
+    margin-top:40px;
+ }
+ #grind{
+    margin-left: 30px;
+    margin-top: 34px;
+ }
+ #logo{
+    width: 70px;
+    height: 50px;
+    margin-top: -26px;
+ }
+   
+    
+
+ #drink{
+    text-align: center;
+    width: 101%;
+    height: 20px;
+    background-color: rgb(232, 206, 172);
+    margin-left: -9px;
+    margin-top: 0px;
+    position:sticky;
+    top: 0px;
+    font-family: monospace;
+    
+ }
+ #bgpic{
+    width:100%;
+    height: 600px;
+    margin-top: 0px;
+    background-image: url(/images/bacground.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    }
+#text{
+    height: 500px;
+    width: 600px;
+    /* background-color: yellow; */
+    margin-top: -600px;
+    margin-left: 180px;
+}
+#coffe{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+    font-size: 45px;
+    color: white;
+}
+.firstpara{
+  
+    color: white;
+    margin: 5px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 26px;
+    margin-left: 2px;
+    margin-top: -20px;
+   
+}
+
+
+#topbrandbgpic{
+      width: 100%;
+      height: 1500px;
+      background-image: url(/images/bg.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      margin-top: -30px;
+}
+#tophead{
+    margin-top: -1450px;
+    margin-left: 300px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(88, 70, 70);
+}
+#contentoftop{
+    width: 800px;
+    height: 1350px;
+    border-radius: 15px;
+    background-image: url(/images/jarek-ceborski-IhqDpFz7I8Q-unsplash.jpg);
+    background-size: cover;
+    margin-top: 30px;
+    margin-left: 240px;
+}
+#sb{
+    width: 650px;
+    height: 500px;
+    /* background-color: blue; */
+    margin-left: 70px;
+    display: flex;
+}
+#sbpic{
+    width: 50px;
+    height: 60px;
+    /* background-color: yellow; */
+ 
+   
+
+}
+#sbpicc{
+    width: 300px;
+    height: 300px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+#sbtext{
+    width: 400px;
+    height: 300px;
+    /* background-color: tomato; */
+    margin-left: 280px;
+    margin-top: 20px;
+
+}
+p{
+    line-height: 20px;
+}
+#th{
+    width: 650px;
+    height: 370px;
+    /* background-color: rgb(183, 243, 135); */
+    margin-left: 70px;
+    display: flex;
+    margin-top: -200px;
+}
+#thpic{
+  
+    width: 300px;
+    height: 300px;
+    margin-top: 60px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+#thtext{
+    width: 300px;
+    height: 300px;
+    /* background-color: tomato; */
+   margin-top: 60px;
+}
+.thp{
+    line-height: 20px;
+}
+#mc{
+    width: 650px;
+    height: 370px;
+    /* background-color: rgb(186, 53, 53); */
+    margin-left: 70px;
+    display: flex;
+    margin-top: 0px;
+}
+#mcpic{
+  
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 20px;
+   
+}
+#mctext{
+    margin-left: 30px;
+    margin-top: 4px;
+}
+#dd{
+    width: 650px;
+    height: 370px;
+    /* background-color: rgb(193, 13, 213); */
+    margin-left: 70px;
+    display: flex;
+    margin-top: 0px;
+}
+#ddtext{
+    width: 300px;
+    height: 300px;
+    /* background-color: tomato; */
+   margin-top: -35px;
+}
+#ddpic{
+  
+    width: 300px;
+    height: 300px;
+    margin-top: -25px;
+    margin-left:30px ;
+    border-radius: 20px;
+
+   
+}
+#gallery{
+    width: 100%;
+    height: 980px;
+    background: url(/images/isaac-benhesed-onLbXleIkds-unsplash.jpg);
+    background-size: cover;
+}
+#galhead{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(88, 70, 70);
+    margin-top: -900px;
+    margin-left: 140px;
+    font-size: 50px;
+}
+.row1{
+    width: 100%;
+    height: 250px;
+    /* background-color: cadetblue; */
+    margin-top: 70px;
+    display: flex;
+   
+
+}
+.pic{
+    width: 300px;
+    height: 220px;
+    background-size: cover;
+   border-radius: 12px;
+}
+.pic1{
+   background-image: url(/images/erik-mclean-eM2eBgs09tQ-unsplash.jpg);
+    /* background-color: yellow; */
+    margin-left: 140px;
+}
+.pic2{
+    background-image: url(/images/erik-mclean-eM2eBgs09tQ-unsplash.jpg);
+   
+
+    /* background-color: red; */
+    margin-left: 40px;
+}
+.pic3{
+    background-image: url(/images/erik-mclean-eM2eBgs09tQ-unsplash.jpg);
+   
+    /* background-color: blue; */
+    margin-left: 40px;
+}
+.row2{
+    width: 100%;
+    height: 250px;
+    /* background-color: red; */
+    margin-top: px;
+    display: flex;
+   
+
+}
+.pic4{
+    background-image: url(/images/erik-mclean-eM2eBgs09tQ-unsplash.jpg);
+   
+    /* background-color: yellow; */
+    margin-left: 140px;
+}
+.pic5{
+    background-image: url(/images/erik-mclean-eM2eBgs09tQ-unsplash.jpg);
+    
+    /* background-color: rgb(87, 225, 225); */
+    margin-left: 40px;
+}
+
+.pic6{
+    background-image: url(/images/erik-mclean-eM2eBgs09tQ-unsplash.jpg);
+/*     
+    background-color: blue; */
+    margin-left: 40px;
+}
+.row3{
+
+    width: 100%;
+    height: 250px;
+    /* background-color: rgb(146, 193, 29); */
+    margin-top: px;
+    display: flex;
+   
+
+}
+.pic7{
+    background-image: url(/images/erik-mclean-eM2eBgs09tQ-unsplash.jpg);
+   
+    /* background-color: yellow; */
+    margin-left: 140px;
+}
+.pic8{
+    background-image: url(/images/erik-mclean-eM2eBgs09tQ-unsplash.jpg);
+/*   
+    background-color: red; */
+    margin-left: 40px;
+}
+.pic9{
+    background-image: url(/images/erik-mclean-eM2eBgs09tQ-unsplash.jpg);
+    
+    /* background-color: blue; */
+    margin-left: 40px;
+}
+#querysec{
+    width: 100%;
+    height: 350px;
+    background-color: rgba(230, 228, 216, 0.715);
+   
+}
+#no{
+ width: 100%;
+ height:10px;
+ background-color: aqua;
+}
+#hsq{
+    margin-top: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(103, 93, 60);
+}
+#qry{
+    width: 650px;
+    height: 250px;
+    background-color: rgb(199, 185, 185);
+    margin-left: 300px;
+    border: 3px ridge rgb(247, 247, 247);
+    border-radius: 12px;
+}
+#name{
+    margin-left: 190px;
+   
+    display:flex;
+    margin-top: 16px;
+}
+#txt{
+    margin-left: 20px;
+    height: 20px;
+    border: 0px;
+    border-radius: 6px;
+    margin-top: 18px;
+   
+}
+#email
+{
+    display: flex;
+    margin-left: 180px;
+    margin-top: -60px;
+
+}
+#mail{
+    margin-left: 24px;
+    height: 20px;
+    border: 0px;
+    border-radius: 6px;
+    margin-top: 18px;
+
+}
+#textarea{
+    display: flex;
+    margin-left: 150px;
+    margin-top: -40px;
+}
+#area{
+    margin-left: 24px;
+    height: 40px;
+    border: 0px;
+    border-radius: 6px;
+    margin-top: 18px;
+}
+#submit{
+cursor: pointer;
+margin-left: 280px;
+margin-top: 20px;
+width: 70px;
+height: 26px;
+background-color: beige;
+border: 0;
+width: 80px;
+border-radius: 10px;
+}
+#footer{
+    width: 100%;
+    height: 300px;
+}
+#support{
+    width: 50px;
+    height: 50px;
+    background-color: cadetblue;
+    border-radius: 50px 50px 10px 50px;
+     float: right;
+    margin-top: 490px;
+    margin-left: 1188px;
+    position: fixed;
+    display: ;
+    
+}
+
+
+
+
+
+    
+
